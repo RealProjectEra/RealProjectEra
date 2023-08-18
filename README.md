@@ -3,5 +3,5 @@
 - 🌱 Professional Developers
 - 💞️ Made with Love!
 - Join our discord for updates <3
-https://discord.gg/erafn
+- https://discord.gg/erafn
 
